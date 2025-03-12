@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1056275810093",
+    "project_id": "unotest-e895b",
+    "storage_bucket": "unotest-e895b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056275810093:android:9d158ec0eeaccd66bdb5a4",
+        "android_client_info": {
+          "package_name": "com.companyname.FCMtest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzNwPHqagJKakz0Wc-0GHtmbPHJoJpEEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
